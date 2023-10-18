@@ -1,0 +1,9 @@
+[submodule "digitaltwin-frontend"]
+	path = digitaltwin-frontend
+	url = ../digitaltwin-frontend.git
+[submodule "digitaltwin-backend"]
+	path = digitaltwin-backend
+	url = ../digitaltwin-backend.git
+[submodule "digitaltwin-firmware"]
+	path = digitaltwin-firmware
+	url = ../digitaltwin-firmware.git
